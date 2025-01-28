@@ -55,6 +55,3 @@ The analysis provides insights into the following:
     jupyter notebook wrangle_act.ipynb
     ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
